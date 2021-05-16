@@ -1725,7 +1725,7 @@
     $('.product-box button .ti-shopping-cart').on('click', function () {
         $.notify({
             icon: 'fa fa-check',
-            title: 'Success!',
+            title: 'Sukses!',
             message: 'Produk Berhasil Masuk Keranjang Belanjaan'
         }, {
             element: 'body',
