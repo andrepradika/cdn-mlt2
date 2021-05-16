@@ -1726,7 +1726,7 @@
         $.notify({
             icon: 'fa fa-check',
             title: 'Success!',
-            message: 'Item Successfully added to your cart'
+            message: 'Produk Berhasil Masuk Keranjang Belanjaan'
         }, {
             element: 'body',
             position: null,
